@@ -1,4 +1,4 @@
-package log
+package log4go
 
 import (
 	"fmt"
